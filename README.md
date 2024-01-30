@@ -1,4 +1,4 @@
-## Oi eu sou o Douglas Soares, desenvolvedor web e mobile!
+## Hello, my name is Douglas Soares, I am a web and mobile developer
 
 
  <div style="display: inline_block"><br>
